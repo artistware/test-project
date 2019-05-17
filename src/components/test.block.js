@@ -10,7 +10,6 @@
 // import React from 'react';
 
 // export default class BlockComponentThing extends React.PureComponent {
-//   const {x, y, z} = this.props;
 //   render() {
 //      const {z} = this.props;
 //      return (
